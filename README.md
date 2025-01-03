@@ -1,18 +1,18 @@
 # Hi there, I'm Juan Muñoz Herrero! 👋
 
 **Senior Frontend (React) Engineer** with 17+ years of experience delivering scalable, user-centric web applications.  
-Currently based in London, I'm passionate about **healthcare innovation** and building technology solutions that truly make a difference.
+Currently based in London, I'm focused on **problem-solving** across various industries—bringing digital solutions to life, no matter the domain.
 
 ---
 
 ## About Me
 
-- 🏗 **Expertise**: React, Redux, Next.js, TypeScript, Vue.js, Tailwind CSS
-- 🌐 **Full-Stack Exposure**: Node.js, PHP, MySQL, MongoDB, AWS, Google Cloud
-- 🎨 **UX/Product**: User research, prototyping, Agile methodologies
-- 👥 **Collaboration & Leadership**: Mentoring, pair programming, code reviews
+- 🏗 **Expertise**: React, Redux, Next.js, TypeScript, Vue.js, Tailwind CSS  
+- 🌐 **Full-Stack Exposure**: Node.js, PHP, MySQL, MongoDB, AWS, Google Cloud  
+- 🎨 **UX/Product**: User research, prototyping, Agile methodologies  
+- 👥 **Collaboration & Leadership**: Mentoring, pair programming, code reviews  
 
-I’ve been fortunate to work in **product-focused** environments, continuously iterating based on user research and real-world feedback. My projects range from **modernizing legacy systems** to building **cross-platform mobile apps** with React Native. Alongside my commercial work, I’m deeply involved in **healthcare advocacy** through volunteer roles with cancer support organizations.
+I’ve been fortunate to work in **product-focused** environments, continuously iterating based on user feedback and real-world needs. Whether it’s **modernizing a legacy system** or **building a cutting-edge mobile app**, my core strength lies in **adapting** quickly to new projects and challenges—helping teams deliver top-quality digital products and experiences.
 
 ---
 
@@ -20,7 +20,7 @@ I’ve been fortunate to work in **product-focused** environments, continuously 
 
 ### Root Digital Agency | Founder & Full-Stack Developer (Jan 2024 – Present)
 - Building reusable frontend components with React/Next.js and Tailwind CSS
-- Launched agency’s website with strong PageSpeed scores, multilingual support, and dark-mode features
+- Launched the agency’s website with strong PageSpeed scores, multilingual support, and dark-mode features
 - Implemented SEO strategies and planned an ERP (Odoo) setup for seamless operations
 
 ### Monocle | Senior Web Developer & Head of Digital (Nov 2020 – May 2023)
@@ -35,19 +35,21 @@ I’ve been fortunate to work in **product-focused** environments, continuously 
 
 ---
 
-## Healthcare Advocacy
-I strongly believe in using technology to improve patient outcomes. I’m an active member of:
-- **Unidad de Apoyo al Paciente Oncológico** since 2018  
-- **Asociación Española Contra el Cáncer** since 2015  
+## Adaptability & Versatility
 
-These affiliations reflect my ongoing commitment to making healthcare solutions more efficient, accessible, and patient-focused.
+Throughout my career, I've successfully tackled diverse **technical challenges** spanning industries like **e-commerce, digital media, subscription-based services, and B2B solutions**. My wide-ranging **skill set** and open-minded approach have enabled me to:
+- Rapidly learn new frameworks and tools
+- Integrate seamlessly with teams of varying sizes and tech stacks
+- Deliver consistent value in **fast-paced, evolving** environments
+
+I'm excited by any opportunity to **push boundaries** and help bring ideas to life—no matter the domain or business model.
 
 ---
 
 ## Let’s Connect
 
-If you’d like to learn more about my work or collaborate on **mission-driven** projects, feel free to reach out:
+If you’d like to learn more about my work or explore new opportunities, feel free to reach out:
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanmunozherrero/)](https://www.linkedin.com/in/juanmunozherrero/)
 
-I’m always open to discussing new opportunities, sharing ideas, or diving into exciting projects—especially those that **bridge technology and healthcare**. Thank you for visiting my GitHub profile!
+I’m always open to discussing new projects, brainstorming ideas, or sharing insights on how to **build high-impact digital solutions**. Thank you for visiting my GitHub profile!
